@@ -1,5 +1,5 @@
 # SHA224
-SHA224 C++ Implementation
+C++ SHA224 Implementation
 
 
 [RFC Documentation](https://tools.ietf.org/html/rfc4634#page-11)
