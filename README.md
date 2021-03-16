@@ -8,6 +8,8 @@ C++ SHA224 Implementation
 ## Usage
 
 ```c++
+#include "SHA224CryptoServiceProvider"
+////
 SHA224CryptoServiceProvider s;
 s.Hashing("a");
 ```
